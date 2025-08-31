@@ -7,7 +7,7 @@
 
 body {
   width: 100%;
-  color: white;
+  color: #39ff57;
   background-color: black;
   display: flex;
   flex-wrap: wrap;
@@ -33,6 +33,7 @@ img {
 
 h1 {
   font-size: 500%;
+  color: #c8659e;
 }
 
 .drinks {
